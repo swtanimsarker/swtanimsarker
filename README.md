@@ -80,7 +80,7 @@ Skills: Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/swtanimsarker">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=radical" alt="Sadik's GitHub Contribution"/>
   </a>
 </p>
 
